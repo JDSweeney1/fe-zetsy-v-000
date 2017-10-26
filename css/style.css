@@ -18,3 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
+
+img#main {
+	border: 5;
+}
