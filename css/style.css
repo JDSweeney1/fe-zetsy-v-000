@@ -20,6 +20,7 @@ body {
 /* Write all remaining styles here */
 
 .main {
+	border-style: solid;
 	border: 5px;
 	border-color: rgb(152, 173, 166);
 }
