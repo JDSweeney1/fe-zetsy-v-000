@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-img#main {
+#main {
 	border: 5;
 	border-color: rgb(152, 173, 166);
 }
