@@ -21,6 +21,6 @@ body {
 
 .main {
 	border-style: solid;
-	border: 5px;
+	border-width: 5px;
 	border-color: rgb(152, 173, 166);
 }
