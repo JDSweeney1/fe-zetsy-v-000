@@ -29,6 +29,7 @@ h1 {
 	color: rgb(152, 173, 166);
 	font-family: 'Libre Baskerville', serif;
 	font-size: 80px;
+	border-bottom: 1px solid #ccc;
 }
 
 h2 {
@@ -62,4 +63,3 @@ p {
 	font-size: .8em;
 	float: right;
 }
-
