@@ -13,9 +13,8 @@ body {
 }
 
 .wrapper {
-	height: 100%;
 	width: 960px;
-	margin: 0 auto;
+	margin: 0px auto;
 	background: #fff;
 	padding: 0 45px 20px;
 }
